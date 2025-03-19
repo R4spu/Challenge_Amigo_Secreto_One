@@ -27,10 +27,15 @@ JavaScript: Lógica de la aplicación (archivo app.js).
 Estructura del Proyecto 📂
 
 AmigoSecreto/
+
 │── index.html    # Estructura principal de la aplicación
+
 │── style.css     # Estilos visuales
+
 │── app.js        # Lógica de la aplicación
+
 │── assets/       # Imágenes y otros recursos
+
 
 Instalación y Uso 🚀
 
